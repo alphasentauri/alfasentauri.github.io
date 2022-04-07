@@ -1,0 +1,181 @@
+*{
+	margin:0 ;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+body{
+	background:url(../img/cabecera.jpg) repeat-x top center ;
+	background-color:#000066 ;
+}
+
+
+	#descarga{
+		background:url(../img/descarga.jpg) no-repeat center ;
+		position: relative;
+		top:160px;
+		background-size: cover;
+		
+	}
+
+
+
+#contenedor{
+	width:960px;
+	margin: 0 auto;
+	
+
+
+	
+}
+#cabecera{
+	padding:550px 0 0 200px;
+
+}
+#menu{
+	width: 90%;
+	text-align: center;
+	display: inline-block;
+	 ;
+
+}
+#menu a{
+    text-decoration: none;
+    color: white ;
+    font-size: 25px;
+    padding: 5px 20px;
+
+}
+#menu a:hover{
+      border:  4px solid blueviolet; 
+}
+#reparto{
+	color: white;
+	text-align:center;
+
+
+	
+}
+#niro{
+	color: white;
+	margin:0 20px 0 20px;
+
+
+}
+#i1{
+	color: white;
+	text-align:left;
+	margin-left:200px;
+	position: relative;
+	bottom:140px;
+}
+#liotta{
+	color: white;
+	float: right;
+	margin:0 20px 0 20px;
+	position: relative;
+    bottom: 120px;
+}
+#i2{
+	color: white;
+	text-align:right;
+	position: relative;
+	bottom: 80px;
+	right:20px;
+}
+#pesci{
+	color: white;
+	position: relative;
+	bottom:60px;
+	margin-left:20px;
+	 
+}
+#i3{
+	color:white;
+	text-align: left;
+	margin-left:200px;
+	position: relative;
+	bottom:180px;
+
+}
+#bracco{
+ color: white;
+ float: right;
+ margin:0 20px 0 20px;
+	position: relative;
+    bottom: 120px;
+}
+#i4{
+	color: white;
+	text-align:right;
+	position: relative;
+	bottom: 80px;
+	right:20px;
+
+}
+#sorvino{
+	color: white;
+	position: relative;
+	bottom:60px;
+	margin-left:20px;
+	 
+
+}
+#i5{
+	color:white;
+	text-align: left;
+	margin-left:200px;
+	position: relative;
+	bottom:180px;
+
+}
+
+#siciliano{
+	color: white;
+	float: right;
+	margin:0 20px 0 20px;
+	position: relative;
+    bottom: 120px;
+
+}
+#i6{
+	color: white;
+	text-align:right;
+	position: relative;
+	bottom: 80px;
+	right:20px;
+}
+#darrow{
+	color: white;
+	position: relative;
+	bottom:60px;
+	margin-left:20px;
+
+}
+#i7{
+	color:white;
+	text-align: left;
+	margin-left:200px;
+	position: relative;
+	bottom:180px;
+}
+#martin{
+	color: white;
+	text-align: center;
+    position: relative;
+    bottom:120px;
+
+
+}
+#i8{
+	color: white;
+	text-align: center;
+	position: relative;
+	bottom:100px;
+}
+#footer{
+background:#4b0081;
+	text-align: center;
+	color: blueviolet;
+	padding:20px;
+}

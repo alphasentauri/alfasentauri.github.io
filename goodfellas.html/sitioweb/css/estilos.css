@@ -1,0 +1,92 @@
+*{
+	margin:0 ;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+body{
+	background:url(../img/cabecera.jpg) repeat-x top center ;
+	background-color:#000066 ;
+}
+
+
+	#descarga{
+		background:url(../img/descarga.jpg) no-repeat center ;
+		position: relative;
+		top:160px;
+		background-size: cover;
+		
+	}
+
+
+
+#contenedor{
+	width:960px;
+	margin: 0 auto;
+	
+
+
+	
+}
+#cabecera{
+	padding:550px 0 0 200px;
+
+}
+#menu{
+	width: 90%;
+	text-align: center;
+	display: inline-block;
+	 ;
+
+}
+#menu a{
+    text-decoration: none;
+    color: white ;
+    font-size: 25px;
+    padding: 5px 20px;
+
+}
+#menu a:hover{
+      border:  4px solid blueviolet; 
+}
+#trailer{
+	color: white;
+	position: relative;
+	right:200px;
+	top:28px;  
+	
+	
+}
+#gif{
+	color: white;
+	position: relative;
+	top:60px;
+	right:200px;
+	
+}
+#poster{
+     color: white;
+	position: relative;
+	bottom:610px; 
+	left: 600px;
+
+	
+
+	
+	 
+}
+#sinopsis{
+	font-family:arial;
+	color: white;
+	border: 4px solid white;
+	padding: 8px;
+	position: relative;
+	bottom:480px ;
+
+}
+	#footer{
+background:#4b0081;
+	text-align: center;
+	color: blueviolet;
+	padding:20px;
+}
